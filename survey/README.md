@@ -28,7 +28,7 @@ The final scores were averaged per model for both criteria.
 
 📝 The Human Interpretation Survey
 
-Please see (in this folder): 'human-interpretation-gforms.jpeg'
+Please see (in this folder): `human-interpretation-gforms.jpeg`
 
 
 ## 📣 Call for Participants
