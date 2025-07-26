@@ -27,4 +27,17 @@ The final scores were averaged per model for both criteria.
 
 ### 📊 Interpretation Evaluation Results
 
-![Bar Chart - Interpretation Evaluation](https://chart.googleapis.com/chart?cht=bvg&chs=700x400&chd=t:4.77,4.80,4.03,4.83,4.77|3.93,3.67,3.47,2.87,4.13|4.11,3.88,3.60,3.89,3.65|3.92,3.84,3.87,3.20,3.49&chxt=x,y&chxl=0:|LDA|NMF|LSA|Top2Vec|BERTopic&chxr=1,0,5&chds=0,5&chco=4F81BD,FFC000,9BBB59,C0504D&chdl=LLM+Interpretability|LLM+Relevance|Human+Interpretability|Human+Relevance&chtt=Interpretation+Evaluation+Scores)
+LLM Interpretability
+LDA       ███████████████████████ 4.77
+NMF       ████████████████████████ 4.80
+LSA       █████████████████ 4.03
+Top2Vec   ████████████████████████ 4.83
+BERTopic  ███████████████████████ 4.77
+
+Human Relevance
+LDA       ████████████████████ 3.92
+NMF       ██████████████████ 3.84
+LSA       ██████████████████ 3.87
+Top2Vec   ████████████ 3.20
+BERTopic  █████████████ 3.49
+
