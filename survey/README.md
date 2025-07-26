@@ -28,7 +28,8 @@ The final scores were averaged per model for both criteria.
 
 📝 The Human Interpretation Survey
 
-[Survey Human Interpretation](https://raw.githubusercontent.com/irhafidz/topic_modelling_longcovid/survey/human-interpretation-gforms.jpeg)
+Please see (in this folder): human-interpretation-gforms.jpeg
+
 
 ## 📣 Call for Participants
 We are currently conducting a short **survey on public understanding of Long COVID topics** derived from social media discussions.
