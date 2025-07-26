@@ -23,3 +23,18 @@ Each participant evaluated five representative topics per model using a 5-point 
     Interpretability: Clarity and coherence of topic themes
     Relevance: Connection to Long COVID discourse and experiences
 The final scores were averaged per model for both criteria.
+
+📝 The Human Interpretation Survey
+
+![Survey Human Interpretation](survey/human-interpretation-gforms.jpeg)
+
+## 📣 Call for Participants
+We are currently conducting a short **survey on public understanding of Long COVID topics** derived from social media discussions.
+To make participation easier, we’re hosting a brief **Zoom session (10–15 minutes)** to walk participants through the survey in a friendly and relaxed setting. 😊
+
+🔗 **Zoom Link**: [https://its.id/meetHafidz](https://its.id/meetHafidz)  
+📋 **Survey Form**: [https://forms.gle/ZW4mUVKxTku2ybwcA](https://forms.gle/ZW4mUVKxTku2ybwcA)  
+🕒 **Session Duration**: Approx. 10–15 minutes
+
+Your participation is incredibly valuable to help us assess topic relevance and interpretation.  
+💜 **Thank you for supporting our research!**
