@@ -11,7 +11,8 @@ Authors: Nathanael Putra Ganata, Irmasari Hafidz, Faizal Johan Atletiko
 Affiliation: Department of Information Systems, Institut Teknologi Sepuluh Nopember (ITS), Indonesia
 
 We compare five topic modeling methods—**LDA**, **LSA**, **NMF**, **Top2Vec**, and **BERTopic**—on a corpus of 500,000 English tweets tagged with `#longcovid` collected in 2022 from Hafidz [1]. The study evaluates each method's performance using automatic metrics (coherence, diversity), human ratings, and large language model (LLM) assessments.
-[1] https://doi.org/10.5281/zenodo.14227098 
+
+[1] Hafidz, I. (2022) "Data collection longcovid 2022." Available https://doi.org/10.5281/zenodo.14227098 
 ## 🚀 Key Findings
 
 - **BERTopic** achieved the highest **coherence (0.6924)** and **diversity (0.7955)** scores, ideal for granular health discourse analysis.
