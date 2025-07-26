@@ -23,19 +23,3 @@ Each participant evaluated five representative topics per model using a 5-point 
     Interpretability: Clarity and coherence of topic themes
     Relevance: Connection to Long COVID discourse and experiences
 The final scores were averaged per model for both criteria.
-
-
-### 📊 Interpretation Evaluation Results
-LLM Interpretability
-LDA       ███████████████████████   4.77
-NMF       ████████████████████████  4.80
-LSA       █████████████████         4.03
-Top2Vec   ████████████████████████  4.83
-BERTopic  ███████████████████████   4.77
-
-Human Relevance
-LDA       ████████████████████      3.92
-NMF       ██████████████████        3.84
-LSA       ██████████████████        3.87
-Top2Vec   ████████████              3.20
-BERTopic  █████████████             3.49
